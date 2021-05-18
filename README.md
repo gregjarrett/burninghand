@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/tLmK3mj/hand4.png" width="64" />
+  <img src="https://i.ibb.co/tLmK3mj/hand4.png" width="120" />
   <br/>
   <h3 align="center">Burning Hand</h3>
 </p>
@@ -23,4 +23,4 @@
 
 ## About
 
-<p>Burning Hand is a deflationary token.</p>
+<p>BURNER is a community-owned deflationary Defi token.  100% Fair-launched with a 3% fee added to the liquidity pool and 3% auto-distributed to hodlers.  Its primary purpose is to buy and hold as a hedge against fiat inflation due to its ongoing burn mechanic and deflationary tokenomics.</p>
